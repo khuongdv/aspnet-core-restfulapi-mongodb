@@ -1,0 +1,14 @@
+D:\learn\dotnetsa\AwesomeAPI\bin\Debug\netcoreapp2.2\AwesomeAPI.deps.json
+D:\learn\dotnetsa\AwesomeAPI\bin\Debug\netcoreapp2.2\AwesomeAPI.runtimeconfig.json
+D:\learn\dotnetsa\AwesomeAPI\bin\Debug\netcoreapp2.2\AwesomeAPI.runtimeconfig.dev.json
+D:\learn\dotnetsa\AwesomeAPI\bin\Debug\netcoreapp2.2\AwesomeAPI.dll
+D:\learn\dotnetsa\AwesomeAPI\bin\Debug\netcoreapp2.2\AwesomeAPI.pdb
+D:\learn\dotnetsa\AwesomeAPI\obj\Debug\netcoreapp2.2\AwesomeAPI.csprojAssemblyReference.cache
+D:\learn\dotnetsa\AwesomeAPI\obj\Debug\netcoreapp2.2\AwesomeAPI.csproj.CoreCompileInputs.cache
+D:\learn\dotnetsa\AwesomeAPI\obj\Debug\netcoreapp2.2\AwesomeAPI.RazorAssemblyInfo.cache
+D:\learn\dotnetsa\AwesomeAPI\obj\Debug\netcoreapp2.2\AwesomeAPI.RazorAssemblyInfo.cs
+D:\learn\dotnetsa\AwesomeAPI\obj\Debug\netcoreapp2.2\AwesomeAPI.AssemblyInfoInputs.cache
+D:\learn\dotnetsa\AwesomeAPI\obj\Debug\netcoreapp2.2\AwesomeAPI.AssemblyInfo.cs
+D:\learn\dotnetsa\AwesomeAPI\obj\Debug\netcoreapp2.2\AwesomeAPI.RazorTargetAssemblyInfo.cache
+D:\learn\dotnetsa\AwesomeAPI\obj\Debug\netcoreapp2.2\AwesomeAPI.dll
+D:\learn\dotnetsa\AwesomeAPI\obj\Debug\netcoreapp2.2\AwesomeAPI.pdb
